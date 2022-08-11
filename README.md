@@ -14,6 +14,6 @@ Dies ist ein Link für ganz viele süsse Katzen :)
 
 Dies ist ein Beispielbild einer süssen Katze
 
-[Süsse Katze](https://user-images.githubusercontent.com/111046193/184091181-d6bd9e56-61c8-4721-b4ea-78e1c174e541.png)
+![image](https://user-images.githubusercontent.com/111046193/184096221-b8464fd7-0922-4292-92ad-d231740e9054.png)
 
 
