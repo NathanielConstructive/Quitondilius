@@ -3,7 +3,7 @@ Mirhan Özden
 
 ## Einleitung
 
-zwei Monaten vor den letzten Sommerferien habe ich angefangen, in einen American-Footballverein zu gehen.
+zwei Monaten vor den letzten Sommerferien habe ich angefangen, in einem American-Footballverein zu spielen.
 
 ## Was habe ich gelernt?
 
