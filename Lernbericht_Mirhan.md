@@ -1,5 +1,5 @@
 # Lern-Bericht
-Mirhan
+Mirhan Özden
 
 ## Einleitung
 
@@ -28,4 +28,5 @@ Was gut lief, war dass ich um einiges disziplinierter war, als bevor ich ins Tra
 
 Was nicht so gut lief war, dass ich manchmal zu wenig Zeit für andere Dinge hatte, wie zum Beispiel mich für die Schule bereit machen.
 
-**VBV**: Ich hätte am Abend mir die Zeit besser einteilen sollen, damit meine ich, dass ich einen Plann machen soll, was wie und wo zu machen, damit ich nichts vergesse.
+**VBV**: 
+Ich hätte am Abend mir die Zeit besser einteilen sollen, damit meine ich, dass ich einen Plann machen soll, was wie und wo zu machen, damit ich nichts vergesse.
