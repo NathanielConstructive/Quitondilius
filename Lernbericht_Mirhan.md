@@ -3,7 +3,7 @@ Mirhan Özden
 
 ## Einleitung
 
-zwei Monaten vor den letzten Sommerferien habe ich angefangen, in einem American-Footballverein zu spielen.
+Vor zwei Monaten vor den letzten Sommerferien habe ich angefangen, in einem American-Footballverein zu spielen.
 
 ## Was habe ich gelernt?
 
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=ltBIMo72C94
 
 ## Verifikation
 
-Das Bild zeigt auf, dass ich in der Mannschaft gespielt habe, und der Link zeigt auf welches Video ich benutzt hatte, um besser zu werden.
+Das Bild zeigt auf, dass ich in der Mannschaft gespielt habe, und der Link zeigt auf, welches Video ich benutzt hatte, um besser zu werden.
 
 # Reflektion zum Arbeitsprozess
 
