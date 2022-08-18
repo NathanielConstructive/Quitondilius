@@ -15,7 +15,7 @@ Ich habe vieles gelernt, wie zum Beispiel wie man den Gegner deckt, wie man die 
 
 ![image](https://user-images.githubusercontent.com/111046193/185320274-6c64cb4b-ba1c-4a45-a883-34280355887b.png)
 
-In diesem Video wird gezeigt wie man richtig den Gegner um rammt
+In diesem Video wird gezeigt wie man richtig den Gegner um rammt.
 https://www.youtube.com/watch?v=ltBIMo72C94
 
 ## Verifikation
