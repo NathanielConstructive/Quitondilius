@@ -1,31 +1,31 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Mirhan
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+zwei Monaten vor den letzten Sommerferien habe ich angefangen, in ein Footballverein zu gehen.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt wie ich richtig einen Gegner decke, damit er nicht den Ball fangen kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Ich habe vieles gelernt, wie zum Beispiel wie man den Gegner deckt, wie man die richtigen Entscheidungen trifft, ein Beispiel wäre wenn man den Gegner den man decken muss wechselt und jemand anderen deckt.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![image](https://user-images.githubusercontent.com/111046193/185320274-6c64cb4b-ba1c-4a45-a883-34280355887b.png)
+
+In diesem Video wird gezeigt wie man richtig den Gegner tackelt
+https://www.youtube.com/watch?v=ltBIMo72C94
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Das Bild zeigt auf, dass ich in der Mannschaft gespielt habe und der Link zeigt auf welches Video ich benutzt hatte, um besser zu werden.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Was gut lief, war dass ich um einiges disziplinierter war, als bevor ich ins Training ging.
 
-👎 und etwas, was nicht gut lief.
+Was nicht so gut lief war, dass ich manchmal zu wenig Zeit für andere Dinge hatte, wie zum Beispiel mich für die Schule bereit machen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich hätte am Abend mir die Zeit besser einteilen sollen, damit meine ich, dass ich einen Plann machen soll, was wie und wo zu machen, damit ich nichts vergesse.
